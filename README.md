@@ -3,7 +3,7 @@ Homework2
 
 To see this page please visit: http://cdracars.github.io/Homework2
 
-To setup project:
+To setup project on Cloud9 run the following:
 --------------------
 git checkout -b gh-pages
 
