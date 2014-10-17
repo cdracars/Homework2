@@ -18,3 +18,8 @@ Change default branch on github in settings to the new gh-pages branch, then run
 git branch -D master
 
 git push origin :master
+
+Add URL to the README.md file on the project
+---------------------
+Add your url which follows this pattern: http://YOUR USERNAME.github.io/PROJECT NAME
+Example if your **username** was **John_Doe** and **project name** was **KindaGeneric**: http://John_Doe.github.io/KindaGeneric
